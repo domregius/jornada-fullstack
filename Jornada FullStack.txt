@@ -77,5 +77,27 @@ gir remote -v
 git push origin main
 
 16/08/2022 - Terça-feira
-[JORNADA FULLSTACK] Backend com NodeJs e Express (Parte 2)
+[JORNADA FULLSTACK] Laboratório de Backend e Banco de Dados com MongoDB
 Paulo Salvatore
+
+1. Instalar o Brew (https://brew.sh/)
+2. Instalar o MongoDB
+	- brew tap mongodb/brew
+	- brew install mongodb-community
+3. Rodar o MongoDB
+	- mongod --dbpath=/path/to/mongo/db
+4. Instalar o MongoDB Compass (https://www.mongodb.com/try/download/community)
+5. Abrir o MongoDB Compass e clicar em Connect.
+
+https://www.mongodb.com/try/download/compass
+
+mongodb+srv://admin:LdQHrR3iAM9u4Mtw@cluster0.ih1f4.mongodb.net
+
+
+mongodb/localhost:27017
+
+--- Create database 
+--- database name:jornada-fullstack-agosto-22
+--- collection name: pontuacoes
+
+
