@@ -1,0 +1,72 @@
+﻿09/08/2022 - Terça-feira
+[JORNADA FULLSTACK] Backend com NodeJs e Express (Parte 1)
+Paulo Salvatore
+
+https://gitpod.io/#https://github.com/paulosalvatore/nodejs-clean-template
+https://miro.com/app/board/uXjVOgNCN5c=/?share_link_id=50306231401
+https://github.com/paulosalvatore/samsung-ocean-preparacao-trilhas/raw/main/Samsung%20Ocean%20-%20Prepara%C3%A7%C3%A3o%20(Trilha%20Backend).pdf
+https://www.gitpod.io/
+
+---projeto atualizado as 09:06
+https://github.com/paulosalvatore/ocean-jornada-fullstack-agosto-22
+
+https://discord.com/invite/BRjMwnCmfk
+
+--- npm ou yarn
+--- para configurar o projeto criar o package.json
+npm init -y
+
+--- express 
+--- microframework transforma projeto node em servidor http
+https://www.npmjs.com/package/express
+npm install express
+
+--- pasta node _modules nao precisa ser passada para a nuvem
+
+---projeto atualizado as 10:39
+https://github.com/paulosalvatore/ocean-jornada-fullstack-agosto-22
+
+
+11/08/2022 - Quinta-feira
+[JORNADA FULLSTACK] Backend com NodeJs e Express (Parte 2)
+Paulo Salvatore
+
+https://gitpod.io/#https://github.com/paulosalvatore/ocean-jornada-fullstack-agosto-22
+
+---ferramenta para reiniciar o node toda vez que algum arquivo for alterado
+https://www.npmjs.com/package/nodemon
+--- instala sem constituir o nodemon como dependencia do projeto
+npm install --save-dev nodemon
+
+---scripts no package.json
+"start": "node index.js",
+"dev": "nodemon index.js"
+
+
+--- para rodar
+npm run dev
+
+--- para testar app backend usa-se mais outros clientes: Tunderclient
+--- instalar extensão vs code thunder client
+
+https://www.youtube.com/watch?list=PLzFYWfRVHp5Jx-iNLxhUydXwnYPqmV2MU&v=F81k9w8gDJs&feature=youtu.be&ab_channel=PauloSalvatore
+
+https://github.com/paulosalvatore/ocean-jornada-fullstack-agosto-22/blob/main/backend/index.js
+
+figma
+https://l3software.com.br/figma/?gclid=CjwKCAjw0dKXBhBPEiwA2bmObf0KRXe32hlcY4jjdBsSDXnxvUR0b6elt57_aCtEhBeIhWGLzYg-sBoCQZMQAvD_BwE
+
+swagger
+
+--- api padrão rest
+--- REST -> RESTFul
+
+--- preparação pra próxima aula
+https://github.com/paulosalvatore/samsung-ocean-preparacao-trilhas/blob/main/Samsung%20Ocean%20-%20Prepara%C3%A7%C3%A3o%20(Trilha%20Backend).pdf
+
+
+https://github.com/domregius/jornada-fullstack.git
+
+16/08/2022 - Terça-feira
+[JORNADA FULLSTACK] Backend com NodeJs e Express (Parte 2)
+Paulo Salvatore
