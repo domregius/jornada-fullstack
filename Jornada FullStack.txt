@@ -65,7 +65,16 @@ swagger
 https://github.com/paulosalvatore/samsung-ocean-preparacao-trilhas/blob/main/Samsung%20Ocean%20-%20Prepara%C3%A7%C3%A3o%20(Trilha%20Backend).pdf
 
 
+--- passagem para o github
 https://github.com/domregius/jornada-fullstack.git
+
+git init -b main
+git add .
+git commit -m "First commit"
+git push origin main
+git remote add origin https://github.com/domregius/jornada-fullstack.git
+gir remote -v
+git push origin main
 
 16/08/2022 - Terça-feira
 [JORNADA FULLSTACK] Backend com NodeJs e Express (Parte 2)
